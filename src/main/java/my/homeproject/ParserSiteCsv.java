@@ -10,7 +10,7 @@ import java.io.FileWriter;
 
 public class ParserSiteCsv {
 
-    public static void GetParser(){
+    public static void getParser(){
         final String domainSiteNews = "https://ngs.ru";
         final String url = "https://ngs.ru/text/";
 
